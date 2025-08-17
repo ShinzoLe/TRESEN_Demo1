@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2132f3378db0cd5439ec7c8f2b151711
+guid: 921dec234d293f8459375da13153fd11
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2756515681925106698
-    second: green-neon-button-glowing-neon-button-png_0
+      213: -8599574746875034603
+    second: looped-blue-neon-background-with-futuristic-shapes-and-bright-elements-with-soft-glow-effect-dark-animation-for-science-fiction-digital-technology-and-music-performance-seamless-vj-loop-4k-60-fps-video_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: green-neon-button-glowing-neon-button-png_0
+      name: looped-blue-neon-background-with-futuristic-shapes-and-bright-elements-with-soft-glow-effect-dark-animation-for-science-fiction-digital-technology-and-music-performance-seamless-vj-loop-4k-60-fps-video_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 552
-        height: 200
+        width: 711
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a0c80f6786c114620800000000000000
-      internalID: 2756515681925106698
+      spriteID: 5140819845c28a880800000000000000
+      internalID: -8599574746875034603
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      green-neon-button-glowing-neon-button-png_0: 2756515681925106698
+      looped-blue-neon-background-with-futuristic-shapes-and-bright-elements-with-soft-glow-effect-dark-animation-for-science-fiction-digital-technology-and-music-performance-seamless-vj-loop-4k-60-fps-video_0: -8599574746875034603
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
