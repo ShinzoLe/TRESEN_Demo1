@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 22a8c32525c47e447a0317256379236a
+guid: bc6ea8f535b44da49aa5fdead19ddda7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5608877825001006262
-    second: pngtree-wrong-icon-png-image_6525689_0
+      213: -5423680877473536192
+    second: pngtree-wrong-icon-png-image_6525689 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pngtree-wrong-icon-png-image_6525689_0
+      name: pngtree-wrong-icon-png-image_6525689 1_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 22
-        width: 325
-        height: 324
+        x: 0
+        y: 0
+        width: 294
+        height: 294
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b420cb2aacb6dd40800000000000000
-      internalID: 5608877825001006262
+      spriteID: 0476c135af63bb4b0800000000000000
+      internalID: -5423680877473536192
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pngtree-wrong-icon-png-image_6525689_0: 5608877825001006262
+      pngtree-wrong-icon-png-image_6525689 1_0: -5423680877473536192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
