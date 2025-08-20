@@ -1721,7 +1721,7 @@ Camera:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 2
+  m_ClearFlags: 4
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -1773,8 +1773,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 195.13441, y: 82.79078, z: 45.486942}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2131,12 +2131,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-HEAD
-  m_AnchoredPosition: {x: -14.0258, y: -1.6289}
-  m_SizeDelta: {x: 209.772, y: 48.658}
-  m_AnchoredPosition: {x: -22.2377, y: -1.6289}
-  m_SizeDelta: {x: 226.1957, y: 48.658}
-29cf0d2521f3307fc338d9e4bdc40b85c90c64cd
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &568740901
 MonoBehaviour:
@@ -4052,10 +4048,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-HEAD
   m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_margin: {x: 0, y: 0, z: -2.3582153, w: 0}
-29cf0d2521f3307fc338d9e4bdc40b85c90c64cd
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -5342,7 +5335,7 @@ RectTransform:
   m_GameObject: {fileID: 2027429644}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1.18, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1994909463}
@@ -5374,8 +5367,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "T\u1EEB kho\xE1 nghi ng\u1EDD"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f903aa100ad0a0148b80e86279110e25, type: 2}
+  m_sharedMaterial: {fileID: -5912283403932035870, guid: f903aa100ad0a0148b80e86279110e25, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
