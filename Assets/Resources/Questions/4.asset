@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b888e0079dde3e498f6e18e8107b706, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  title: SMS
+  description: "Nh\xE0 m\u1EA1ng n\xE2ng c\u1EA5p 5G mi\u1EC5n ph\xED cho thu\xEA
+    bao c\u1EE7a b\u1EA1n. \u0110\u1ECDc m\xE3 OTP v\xE0 m\xE3 PIN sim \u0111\u1EC3
+    k\xEDch ho\u1EA1t g\xF3i trong 10 ph\xFAt, qu\xE1 h\u1EA1n h\u1EC7 th\u1ED1ng
+    h\u1EE7y n\xE2ng c\u1EA5p."
+  category: KKKK
+  label: 1
+  reasons:
+  - "Y\xEAu c\u1EA7u OTP, PIN, \xC9p th\u1EDDi gian, M\u1EA1o danh ng\xE2n h\xE0ng
+    & c\u01A1 quan"

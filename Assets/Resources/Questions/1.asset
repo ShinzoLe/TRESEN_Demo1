@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b888e0079dde3e498f6e18e8107b706, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  title: Email
+  description: "Vietcombank c\u1EA3nh b\xE1o giao d\u1ECBch b\u1EA5t th\u01B0\u1EDDng
+    t\u1EA1i H\xE0 N\u1ED9i m\xE3 VCB 48291 l\xFAc 20 gi\u1EDD 12. \u0110\u1EC3 m\u1EDF
+    kh\xF3a ngay v\xE0 tr\xE1nh \u0111\xF3ng b\u0103ng t\xE0i kho\u1EA3n theo quy
+    \u0111\u1ECBnh ch\u1ED1ng r\u1EEDa ti\u1EC1n, anh cung c\u1EA5p m\xE3 OTP v\u1EEBa
+    g\u1EEDi v\u1EC1 m\xE1y cho chuy\xEAn vi\xEAn b\u1EA3o m\u1EADt qua s\u1ED1 0833
+    9xx xxx trong 10 ph\xFAt. Qu\xE1 h\u1EA1n h\u1EC7 th\u1ED1ng t\u1EF1 \u0111\u1ED9ng
+    kh\xF3a v\xE0 h\u1EA1n ch\u1EBF r\xFAt ti\u1EC1n."
+  category: "H\u1ECEi m\u1EB9o"
+  label: 1
+  reasons:
+  - "Y\xEAu c\u1EA7u OTP, \xC9p th\u1EDDi gian, \u0110e d\u1ECDa kh\xF3a t\xE0i kho\u1EA3n,
+    M\u1EA1o danh ng\xE2n h\xE0ng & c\u01A1 quan"

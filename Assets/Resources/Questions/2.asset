@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b888e0079dde3e498f6e18e8107b706, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  title: Email
+  description: "Alpha Global ch\xFAc m\u1EEBng b\u1EA1n tr\xFAng tuy\u1EC3n tr\u1EE3
+    l\xFD v\u0103n ph\xF2ng thu nh\u1EADp 50 \u0111\u1EBFn 60 tri\u1EC7u m\u1ED9t
+    th\xE1ng, kh\xF4ng c\u1EA7n kinh nghi\u1EC7m, v\xE0o l\xE0m trong tu\u1EA7n n\xE0y.
+    \u0110\u1EC3 gi\u1EEF ch\u1ED7 ph\u1ECFng v\u1EA5n s\xE1ng mai, chuy\u1EC3n ph\xED
+    h\u1ED3 s\u01A1 500 ngh\xECn v\xE0o t\xE0i kho\u1EA3n c\xE1 nh\xE2n Nguyen T
+    t\u1EA1i ng\xE2n h\xE0ng X n\u1ED9i dung Hoso 7264. X\xE1c nh\u1EADn tr\u01B0\u1EDBc
+    20 gi\u1EDD \u0111\u1EC3 kh\xF4ng m\u1EA5t su\u1EA5t."
+  category: Email
+  label: 1
+  reasons:
+  - "L\u01B0\u01A1ng cao b\u1EA5t th\u01B0\u1EDDng, Kh\xF4ng c\u1EA7n kinh nghi\u1EC7m,
+    Ph\xED h\u1ED3 s\u01A1, Chuy\u1EC3n v\xE0o t\xE0i kho\u1EA3n c\xE1 nh\xE2n"
